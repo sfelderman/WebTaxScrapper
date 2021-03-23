@@ -1,3 +1,7 @@
+*.csv
+output.txt
+
+
 # Logs
 logs
 *.log
